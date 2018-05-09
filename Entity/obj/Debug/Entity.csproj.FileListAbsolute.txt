@@ -1,0 +1,11 @@
+D:\asp.net\workspace\MyDemo\Entity\bin\Debug\Entity.dll
+D:\asp.net\workspace\MyDemo\Entity\bin\Debug\Entity.pdb
+D:\asp.net\workspace\MyDemo\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\asp.net\workspace\MyDemo\Entity\obj\Debug\Entity.dll
+D:\asp.net\workspace\MyDemo\Entity\obj\Debug\Entity.pdb
+D:\asp.net\workspace\MyDemo2\Entity\bin\Debug\Entity.dll
+D:\asp.net\workspace\MyDemo2\Entity\bin\Debug\Entity.pdb
+D:\asp.net\workspace\MyDemo2\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\asp.net\workspace\MyDemo2\Entity\obj\Debug\Entity.dll
+D:\asp.net\workspace\MyDemo2\Entity\obj\Debug\Entity.pdb
+D:\asp.net\workspace\MyDemo2\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

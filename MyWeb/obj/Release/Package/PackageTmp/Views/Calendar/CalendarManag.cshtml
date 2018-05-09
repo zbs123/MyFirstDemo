@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "calender Page";
+}
+@Styles.Render("~/Content/css/index.css")
+
+<div class="container">
+    <div class="calender-box">
+        <div class="info-box-s">
+            <div class="left"><span class="s1">今天 · @ViewBag.now</span><span class="s2">@ViewBag.week</span></div>
+           
+            <div class="right">
+               
+                <span class="sel-year">
+                    <div class="searchBox fr">
+                        <input type="text" required="" lay-verify="required" id="search" placeholder="请输入教师姓名或手机号" class="layui-input">
+                        <i class="iconfont icon-fangdajing"></i>
+                    </div>
+                    <input type="hidden" id="semester"/>
+                    <div class="curr-year">
+                        <div class="curr" data-v="2018">2018学年</div>
+                        <div class="year-box" style="display:none;z-index:199999">
+                            <ul>
+                                <li data-v="2017">2017学年</li>
+                                <li data-v="2018">2018学年</li>
+                                <li data-v="2019">2019学年</li>
+                                <li data-v="2020">2020学年</li>
+                            </ul>
+                        </div>
+                    </div>
+                </span>
+                <a class="a1 sem-btn" data-s="1">< 上学期</a><a class="a2 sem-btn" data-s="2">下学期 ></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="tableBox">
+        <table class="layui-table" id="calendar" style="text-align:center;">
+            <thead></thead>
+            <tbody style=""></tbody>
+            <tfoot>@*<tr><td colspan="22"></td></tr>*@</tfoot>
+        </table>
+       
+        <div id="mypage" class="mypage" ></div>
+    </div>
+</div>
+
+@Scripts.Render("~/Content/js/jquery.min.js", "~/Content/layui/layui.all.js", "~/Scripts/calendar/calendarManag.js")

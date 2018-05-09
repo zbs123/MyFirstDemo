@@ -1,0 +1,682 @@
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.contentBox {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background: #eee;
+    -webkit-box-shadow: 0 5px 30px #000;
+    -moz-box-shadow: 0 5px 30px #000;
+    box-shadow: 0 5px 30px #000;
+}
+
+.leftBox {
+    width: 250px;
+    height: 100%;
+    background: #eaedf1;
+    float: left;
+    box-sizing: border-box;
+}
+
+.left-user {
+    width: 100%;
+    height: 10px;
+}
+
+.layui-nav-tree {
+    width: 100%;
+}
+
+.layui-nav {
+    background: #eaedf1;
+}
+
+.layui-nav-tree .layui-nav-item a {
+    height: 40px;
+    line-height: 40px;
+    padding-left:20px;
+}
+
+.layui-nav .layui-nav-item a {
+    color: #333333;
+}
+
+.layui-nav-itemed > a {
+    color: #333333 !important;
+    background: none;
+}
+.layui-nav-tree .layui-nav-child a:hover,.layui-nav-tree .layui-nav-child a.active,.layui-nav-tree .layui-nav-item a:hover,.layui-nav-tree .layui-nav-item a.active{
+    color: #333333 !important;
+    background: #F4F6F8;
+}
+.layui-nav-tree .layui-nav-bar {
+    width: 0;
+    background: none;
+}
+
+.layui-nav-itemed .layui-nav-child {
+    background: #dee1e5 !important;
+}
+
+.layui-nav .layui-nav-more {
+    content: '';
+    width: 0;
+    height: 0;
+    border-style: solid dashed dashed;
+    border-color: #333333 transparent transparent;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all .2s;
+    -webkit-transition: all .2s;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    border-width: 6px;
+}
+
+.layui-nav-itemed .layui-nav-more {
+    border-color: transparent transparent #333333;
+    top: 10px;
+}
+.layui-nav-tree .layui-nav-child dd.layui-this, .layui-nav-tree .layui-nav-child dd.layui-this a, .layui-nav-tree .layui-this, .layui-nav-tree .layui-this>a, .layui-nav-tree .layui-this>a:hover{
+    background: #F4F6F8;
+    color: #333333;
+}
+/*右侧*/
+
+.rightBox {
+    height: 100%;
+    margin-left: 250px;
+    background: #F3F3F3;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#rightBox {
+    width: 100%;
+    height: 100%;
+    background: none;
+    min-width: 750px;
+}
+
+.iconfont {
+    margin-right:20px;
+}
+/*部门人员*/
+#shareBox{
+    border:none;
+    margin-top:10px;
+    display: none;
+}
+#shareBox .layui-colla-title {
+    height: 40px;
+    line-height: 40px;
+    background-color: #e4e4e4;
+    text-indent: 20px;
+    padding:0;
+    font-size:14px;
+    color: #4c4c4c;
+}
+#shareBox .layui-colla-title>i {
+    right:15px;
+    color: #A7A7A7;
+}
+#shareBox .layui-colla-content>ul>li {
+    height: 40px;
+    line-height: 40px;
+    background-color: #fff;
+    text-indent: 30px;
+    font-size:14px;
+    color: #4c4c4c;
+    position: relative;
+    cursor: pointer;
+    border-bottom: 1px dashed #e6e6e6;
+
+
+
+
+
+
+}
+#shareBox .layui-colla-content>ul>li.active,#shareBox .layui-colla-content>ul>li:hover {
+    color: #1e9fff;
+    background: #eef5fe;
+}
+#shareBox .layui-colla-content>ul>li>i {
+    position: absolute;
+    right: 13px;
+    top: 1px;
+    color: #1e9fff;
+    display: none;
+}
+#shareBox .searchBox {
+    width: 230px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #f1f2f4;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    left: 10px;
+    margin: 35px auto 10px;
+}
+
+#shareBox .searchBox > input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    padding-left: 0px;
+    color: #999999;
+    text-indent: 18px;
+    font-size: 14px;
+    background: #f3f3f3;
+}
+
+#shareBox .searchBox > i {
+    position: absolute;
+    top: 17px;
+    right: -8px;
+    color: #979797;
+    font-size: 23px;
+    color: #333333;
+    line-height: 0;
+    cursor: pointer;
+}
+.layui-layer-ico {
+    background: url(../images/closeH.png) no-repeat center!important;
+}
+.layui-layer-setwin .layui-layer-close2 {
+    background-position: 0px 0px!important;
+    right: 0px!important;
+    top: -3px!important;
+    width: 15px!important;
+    height: 15px!important;
+    -webkit-background-size: 100% 100%!important;
+    background-size: 100% 100%!important;
+}
+
+/*zbs*/
+.ls-box {
+    width: 410px;
+    height: 205px;
+    border: 1px solid #ddd;
+    float: left;
+    margin: 5px 20px;
+    border-radius: 2px;
+}
+.ls-box textarea {
+    width: 408px;
+    height: 203px;
+    border: 0px;
+    line-height: 25px;
+    color: #666
+}
+.btn-list-box {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.calender-box {
+    float: left;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 5px 5px 0 0;
+    border-bottom: 0px;
+    margin: -2px;
+}
+
+.calender-box .info-box-s {
+    width: 100%;
+    height: 50px;
+}
+
+.calender-box .info-box-s .left {
+    margin-left: 20px;
+    font-size: 18px;
+    float:left;
+}
+
+.calender-box .info-box-s .left span {
+    display: inline-block;
+    width: 100%
+}
+
+.calender-box .info-box-s .left span.s1 {
+    font-size: 18px;
+    height: 30px;
+    line-height: 35px;
+}
+
+.calender-box .info-box-s .left span.s2 {
+    font-size: 14px;
+    color: #999;
+    height: 20px;
+    line-height: 15px;
+}
+
+.calender-box .info-box-s .right {
+    margin-right: 20px;
+    height: 50px;
+    line-height: 60px;
+    float:right;
+}
+
+.calender-box .info-box-s .right span {
+    width: 102px;
+    height: 32px;
+    line-height: 30px;
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    cursor: pointer
+}
+
+.calender-box .info-box-s .right span div.curr {
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    cursor: pointer
+}
+
+.calender-box .info-box-s .right span div.year-box {
+    width: 100px;
+    position: absolute;
+    text-align: center;
+    top: 45px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    height: 120px;
+    background: #FFF
+}
+
+.calender-box .info-box-s .right span div.year-box ul {
+    width: 100%;
+}
+
+.calender-box .info-box-s .right span div.year-box ul li {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    color: #666
+}
+
+.calender-box .info-box-s .right a {
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    text-align: center;
+    color: #717592;
+    font-size: 12px;
+    cursor: pointer
+}
+
+.calender-box .info-box-s .right a.a1 {
+    border-radius: 4px 0 0 4px;
+}
+
+.calender-box .info-box-s .right a.a2 {
+    border-radius: 0 4px 4px 0;
+}
+
+.calender-box .info-box-s .right a:hover {
+    border: 1px solid #126DC7;
+    color: #126DC7;
+}
+.searchBox {
+    width: 315px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #f1f2f4;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    margin-right: 120px;
+    margin-top: 10px;
+}
+
+.searchBox > input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    padding-left: 0px;
+    color: #999999;
+    text-indent: 18px;
+    font-size: 14px;
+    background: #f3f3f3;
+}
+
+.searchBox > i {
+    position: absolute;
+    top: 17px;
+    right: 15px;
+    color:#979797;
+    font-size: 23px;
+    color: #333333;
+    line-height: 0;
+    cursor: pointer;
+}
+.datetext{
+    cursor:pointer;
+}
+
+
+.layui-badge-dot {
+    margin-right: 8px;
+    margin-left: 15px;
+}
+
+.add-event-wrap {
+    width: 310px;
+    height: 240px;
+    position: absolute;
+    transition: all .3s;
+    z-index: 10000;
+    display: block;
+}
+
+.add-event-content {
+    position: relative;
+    background: #fff;
+    width: 100%;
+    height: 240px;
+    padding: 15px;
+    border-radius: 4px;
+    box-shadow: 0 2px 18px 2px rgba(0,0,0,.1);
+}
+
+.ae-header {
+    height: 52px;
+    border-bottom: 2px solid #f4f4f4;
+}
+
+.add-event-wrap .add-event-content .ae-footer {
+    padding-top: 5px;
+}
+
+.add-event-content .ae-header .event-input {
+    height: 40px;
+    font-size: 16px;
+    color: #999;
+    border: none;
+    outline: none;
+}
+
+.add-event-wrap .add-event-content .ae-close {
+    position: absolute;
+    top: -12px;
+    right: -12px;
+    transition: all .3s;
+    opacity: .7;
+}
+
+.add-event-wrap .add-event-content .ae-close i {
+    font-size: 30px;
+}
+
+input {
+    line-height: normal;
+    background-color: inherit;
+    -webkit-appearance: none;
+}
+
+.btn-important.block {
+    display: block;
+    width: 100%;
+}
+
+.btn-important {
+    color: #fff;
+    background-color: #317ef5;
+    border-color: rgba(0,0,0,.12);
+    box-shadow: 0 1px 1px rgba(0,0,0,.12);
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 8px 13px;
+    font-size: 14px;
+    line-height: 1;
+    border-radius: 3px;
+    transition: all .2s ease-in-out;
+}
+
+.layui-form {
+    width: 90px;
+    position: relative;
+    top: -39px;
+    right: -218px;
+}
+
+.add-event-wrap .add-event-content .ae-body {
+    height: 120px;
+}
+
+
+.layui-input-inline {
+    width: 237px;
+}
+
+.layui-form-label {
+    padding-left: 0px;
+}
+
+.layui-inline {
+    padding: 10px 0;
+    width: 100%;
+}
+
+.add-event-wrap input {
+    border-color: #D2D2D2;
+}
+
+.my-seleted {
+    border: 1px solid #216cf8 !important;
+    /*border-color: #216cf8 !important;*/
+}
+
+.date-content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    padding: 0px !important;
+    display: flex;
+    flex-direction: column;
+}
+
+.datetext {
+    padding: 0px !important;
+}
+
+.datetext:hover {
+    background-color: #f2f2f2;
+}
+
+.desc-text-wrap {
+    position: absolute;
+    width: 94%;
+    height: 100%;
+    padding: 5px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+.desc-text-wrap span {
+    white-space: pre-wrap;
+    opacity: 0.5;
+}
+
+.desc-shade, .desc-textarea {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+.desc-shade {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background: #f1f1f1;
+    opacity: 0;
+    visibility: hidden;
+    text-align: center;
+    transition: all .4s;
+}
+
+.desc-textarea .desc-textarea-body-wrap {
+    height: 100%;
+    border: 2px solid #dfeaff;
+    border-bottom: none;
+}
+
+.desc-textarea textarea {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #216cf8;
+    border-bottom: none;
+    border-radius: 0;
+    resize: none;
+}
+
+.edit-desc {
+    position: relative;
+    text-align: left;
+    vertical-align: top;
+    cursor: pointer;
+}
+
+.desc-textarea .desc-textarea-footer-wrap {
+    position: relative;
+    background: #f8f8f8;
+    border: 2px solid #dfeaff;
+    border-top: none;
+    text-align: center;
+    z-index: 1;
+    margin-right: -2px;
+}
+
+.desc-textarea .desc-textarea-footer {
+    padding: 10px 15px;
+    border: 1px solid #216cf8;
+    border-top: none;
+}
+
+.desc-textarea .desc-textarea-footer .btn:first-child {
+    margin-right: 15px;
+}
+
+.btn-important.block {
+    display: block;
+    width: 100%;
+}
+
+.block {
+    display: block;
+}
+
+.btn-important {
+    color: #fff;
+    background-color: #317ef5;
+    border-color: rgba(0,0,0,.12);
+    box-shadow: 0 1px 1px rgba(0,0,0,.12);
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 8px 13px;
+    font-size: 14px;
+    line-height: 1;
+    border-radius: 3px;
+    transition: all .2s ease-in-out;
+}
+.calendar:hover{
+    background-color:#f2f2f2;
+}
+.msg-box {
+    padding: 10px 30px;
+}
+.msg-box ol {
+    list-style: initial;
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.msg-box ol li {
+    line-height: 24px;
+}
+.msg-box-btn {
+    position: relative;
+    min-height: 60px;
+    background-color: #f8f8f8;
+    border-radius: 0 0 5px 5px;
+    border-top: 1px solid #ddd;
+    text-align:center;
+}
+.msg-box-btn button{
+    margin-top:10px;
+    width:160px;
+}
+.date-week {
+    width: 90px;
+    background: #f7f7f7;
+}
+.date-month {
+    width: 90px;
+    background:#f1f1f1;
+}
+thead {
+    background: #f1f1f1;
+}
+.year-box ul li:hover{
+    background:#f2f2f2;
+}
+table{
+    text-align:center;
+}
+.mypage {
+    border: 1px solid #e6e6e6;
+    text-align: right;
+    position: absolute;
+    /* margin-top: 10px; */
+    top: 792px;
+    right: 0px;
+    width: 100%;
+}

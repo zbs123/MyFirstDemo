@@ -1,0 +1,16 @@
+D:\asp.net\workspace\MyDemo\IDAL\bin\Debug\IDAL.dll
+D:\asp.net\workspace\MyDemo\IDAL\bin\Debug\IDAL.pdb
+D:\asp.net\workspace\MyDemo\IDAL\bin\Debug\Entity.dll
+D:\asp.net\workspace\MyDemo\IDAL\bin\Debug\Entity.pdb
+D:\asp.net\workspace\MyDemo\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\asp.net\workspace\MyDemo\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+D:\asp.net\workspace\MyDemo\IDAL\obj\Debug\IDAL.dll
+D:\asp.net\workspace\MyDemo\IDAL\obj\Debug\IDAL.pdb
+D:\asp.net\workspace\MyDemo2\IDAL\bin\Debug\IDAL.dll
+D:\asp.net\workspace\MyDemo2\IDAL\bin\Debug\IDAL.pdb
+D:\asp.net\workspace\MyDemo2\IDAL\bin\Debug\Entity.dll
+D:\asp.net\workspace\MyDemo2\IDAL\bin\Debug\Entity.pdb
+D:\asp.net\workspace\MyDemo2\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\asp.net\workspace\MyDemo2\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+D:\asp.net\workspace\MyDemo2\IDAL\obj\Debug\IDAL.dll
+D:\asp.net\workspace\MyDemo2\IDAL\obj\Debug\IDAL.pdb

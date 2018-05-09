@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "calender Page";
+}
+@Styles.Render("~/Content/css/index.css")
+<div class="container">
+    <div class="calender-box">
+        <div class="info-box-s">
+            <div class="left"><span class="s1">今天 · @ViewBag.now</span><span class="s2">@ViewBag.week</span></div>
+            <div class="right">
+                <span class="sel-year">
+                    <div class="curr" data-v="2018">2018学年</div>
+                    <div class="year-box" style="display:none;z-index:199999">
+                        <ul>
+                            <li data-v="2017">2017学年</li>
+                            <li data-v="2018">2018学年</li>
+                            <li data-v="2019">2019学年</li>
+                            <li data-v="2020">2020学年</li>
+                        </ul>
+                    </div>
+                </span>
+                <a class="a1 sem-btn" data-s="1">< 上学期</a><a class="a2 sem-btn" data-s="2">下学期 ></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="tableBox">
+        @*<table class="layui-table" id="calendar" lay-filter="myEvent"></table>
+            <div class="noData layui-hide" id="noData">
+                <i class="layui-icon">&#xe609;</i>
+                <p>无数据</p>
+            </div>*@
+    </div>
+</div>
+<script type="text/html" id="titleTpl">
+
+</script>
+@Scripts.Render("~/Content/js/jquery.min.js", "~/Content/layui/layui.all.js", "~/Scripts/calendar/index.js")

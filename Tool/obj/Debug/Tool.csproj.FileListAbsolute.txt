@@ -1,0 +1,5 @@
+D:\asp.net\workspace\MyDemo2\Tool\bin\Debug\Tool.dll
+D:\asp.net\workspace\MyDemo2\Tool\bin\Debug\Tool.pdb
+D:\asp.net\workspace\MyDemo2\Tool\obj\Debug\Tool.csproj.CoreCompileInputs.cache
+D:\asp.net\workspace\MyDemo2\Tool\obj\Debug\Tool.dll
+D:\asp.net\workspace\MyDemo2\Tool\obj\Debug\Tool.pdb

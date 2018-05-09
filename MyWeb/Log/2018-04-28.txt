@@ -1,0 +1,78 @@
+--------------------   时间：2018-04-28 10:23:13   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:19   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_month='5' and jw_week='3'
+
+--------------------   时间：2018-04-28 10:23:22   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_week='4'
+
+--------------------   时间：2018-04-28 10:23:27   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:28   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:29   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:29   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:30   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:30   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:31   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:31   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:32   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:32   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:32   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:33   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:33   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:33   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:34   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:34   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:34   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:35   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:35   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:36   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2017' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:40   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:41   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2017' and jw_semester='1' and jw_delflag='1'
+
+--------------------   时间：2018-04-28 10:23:43   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2020' and jw_semester='1' and jw_delflag='1'
+

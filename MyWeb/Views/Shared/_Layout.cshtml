@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    @Styles.Render("~/Content/css/common.css", "~/Content/css/font-awesome.min.css", "~/Content/layui/css/layui.css", "~/Content/css/iconfont.css")
+        @Scripts.Render("~/bundles/modernizr", "~/Content/js/jquery.min.js", "~/Scripts/pownlib.js", "~/Scripts/app.js")
+</head>
+<body>
+   
+    @RenderBody()
+
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

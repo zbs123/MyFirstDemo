@@ -1,0 +1,762 @@
+--------------------   时间：2018-05-04 09:08:10   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:08:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:08:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:10:49   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:11:07   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:11:07   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:11:54   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:16:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:16:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:17:08   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:17:08   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:18:01   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:18:44   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:18:44   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:19:43   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:19:54   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:21:20   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:22:04   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:22:04   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:22:08   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:22:08   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:23:28   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:27:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:27:27   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:27:27   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:27:34   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:27:34   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:27:46   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:28:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:28:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:28:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:28:38   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:28:38   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:28:41   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:32:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:32:51   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='25' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:32:51   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:18   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:22   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='25' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:22   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='25' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:32   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='24' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:32   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:41   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:33:58   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:34:19   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:44:50   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:48:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:48:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:48:13   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:48:13   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:48:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:04   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='24' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:13   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:32   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='24' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:32   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:35   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:49   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='24' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:50:49   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:51:58   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:52:36   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:52:36   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:53:08   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:53:08   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:13   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:52   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:54:52   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:56:01   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:56:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:56:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:56:12   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:56:12   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:56:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:56:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:57:50   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:57:54   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:57:54   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:58:03   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:58:03   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:58:06   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 09:58:06   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:00:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:00:53   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:00:53   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:00:57   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:00:57   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:01:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:01:30   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:01:30   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:01:33   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='26' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:01:33   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:05:35   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:05:41   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:05:41   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:06:00   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:06:00   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:06:17   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:06:17   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:06:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:06:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:10:17   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='24' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:10:17   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:10:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_day='24' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:10:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:10:29   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:10:29   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:43:31   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 10:56:15   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 11:26:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 11:40:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 11:40:24   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='' and jw_semester='' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 11:40:36   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='' and jw_semester='' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 11:40:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:42:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:45:39   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:48:23   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:49:37   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:50:41   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:51:04   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:57:02   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:57:10   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 13:59:44   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:00:18   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:01:45   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:05:34   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:05:39   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:06:43   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:07:11   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:10:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:10:27   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:10:27   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:10:56   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:10:56   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:16:35   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:19:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:21:22   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:21:38   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:21:49   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:21:49   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:22:43   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:22:55   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='4' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:22:55   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:28:32   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:29:05   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:29:31   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:29:52   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:30:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:31:49   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:32:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:33:07   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:33:35   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:35:17   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:35:49   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:36:01   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:36:30   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='5' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:36:30   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:39:36   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:41:37   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:41:51   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:44:42   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:44:43   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:44:44   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='' and jw_semester='' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:44:45   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 14:44:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:40:21   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:40:26   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:40:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:40:36   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:41:36   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:42:33   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:48:15   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:48:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:52:06   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 15:52:51   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:11:24   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:20:44   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:32:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:32:16   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:32:17   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:34:39   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:35:23   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:37:39   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:38:01   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:38:04   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:41:11   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:41:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:47:12   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:49:01   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:52:36   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:52:54   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:53:37   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:56:37   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 16:58:16   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:01:04   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:01:05   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='' and jw_semester='' and jw_month='' and jw_week=''
+
+--------------------   时间：2018-05-04 17:01:08   --------------------
+Select * From jw_calendar where 1=1  and jw_schoolyear='' and jw_semester='' and jw_month='' and jw_week=''
+
+--------------------   时间：2018-05-04 17:03:52   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:05:23   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:06:37   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:06:47   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_type='2'  and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:06:47   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:06:54   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:07:12   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:08:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:08:43   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:09:28   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:10:58   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:11:10   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:22:13   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:23:47   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:25:37   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:29:11   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:29:36   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:31:05   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:31:12   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:31:31   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:32:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:33:04   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:33:53   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:36:37   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:38:20   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:39:53   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:40:16   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:48:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:48:39   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:48:40   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:48:40   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:49:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:51:07   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:51:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:52:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:52:46   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:52:56   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:56:42   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 17:56:48   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:00:34   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:00:40   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:00:52   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:01:00   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:01:22   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:01:46   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:04:33   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:05:03   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:07:39   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-04 18:08:41   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+

@@ -1,0 +1,324 @@
+--------------------   时间：2018-05-07 09:24:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='58B46A51FCD84FC9B1D721486AE8E57F' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:02:09   --------------------
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MyWeb.Controllers.CalendarController.GetSchoolCalendar(jw_schoolcalendar jsc) 位置 D:\asp.net\workspace\MyDemo2\MyWeb\Controllers\CalendarController.cs:行号 337
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+--------------------   时间：2018-05-07 11:02:35   --------------------
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MyWeb.Controllers.CalendarController.GetSchoolCalendar(jw_schoolcalendar jsc) 位置 D:\asp.net\workspace\MyDemo2\MyWeb\Controllers\CalendarController.cs:行号 337
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+--------------------   时间：2018-05-07 11:03:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:03:30   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:04:27   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:04:38   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:04:40   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:05:10   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:05:31   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:06:07   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:07:52   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:19:58   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:27:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:27:57   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:40:21   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:40:43   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:41:32   --------------------
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MyWeb.Controllers.CalendarController.SchoolCalendar() 位置 D:\asp.net\workspace\MyDemo2\MyWeb\Controllers\CalendarController.cs:行号 278
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+--------------------   时间：2018-05-07 11:45:12   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:45:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:45:40   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:45:54   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_day='20' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:45:54   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:46:04   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 11:48:27   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:32:12   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:33:31   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:33:39   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:34:33   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:45:47   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:48:23   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:49:53   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:52:00   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:52:11   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:53:07   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:53:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:55:03   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:56:39   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:57:10   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 13:57:24   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:12:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:12:35   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:12:56   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:13:44   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:14:06   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:15:46   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:16:22   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:16:53   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:17:12   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:18:38   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:19:15   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:19:50   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:23:14   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:23:36   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:23:57   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:24:33   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:31:08   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:32:07   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:32:56   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:35:33   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:35:59   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:37:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:37:53   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:38:09   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:39:35   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:40:47   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:41:05   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:41:11   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:41:42   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:42:37   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:42:45   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:43:42   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:43:55   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:44:05   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:44:15   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 14:44:26   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 15:03:46   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 15:36:49   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 15:37:37   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 15:50:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 15:50:59   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:20:27   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:22:23   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:23:18   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:23:18   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:23:57   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:24:45   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:25:01   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:26:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_month='3' and jw_day='20' and jw_delflag='1'
+
+--------------------   时间：2018-05-07 16:26:25   --------------------
+Select * From jw_schoolcalendar where 1=1  and jw_schoolid='30E0E3D1341049D39AD513E854836AC1' and jw_schoolyear='2018' and jw_semester='2' and jw_delflag='1'
+

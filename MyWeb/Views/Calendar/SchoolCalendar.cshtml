@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "SchoolCalendar";
+}
+@Styles.Render("~/Content/css/index.css")
+<div class="container">
+    <div class="calender-box">
+        <div class="info-box-s">
+            <div style="padding-top:14px;">
+                <span class="layui-breadcrumb" lay-separator="   ">
+                    <span class="layui-badge-dot layui-bg-black"></span><b>正常</b>
+                    <span class="layui-badge-dot layui-bg-gray"></span><b>周末</b>
+                    <span class="layui-badge-dot layui-bg-orange"></span><b>调课</b>
+                    <span class="layui-badge-dot"></span><b>放假</b>
+                    <span class="layui-badge-dot layui-bg-blue"></span><b>特殊</b>
+                </span>
+                <div class="right" style="height:0px;line-height:0px;">
+                    <a href="javascript:void(0);" id="export">导出</a>
+                    <a href="javascript:void(0);" class="export-save layui-hide"><span id="sp"></span></a>
+                </div>
+            </div>
+
+            
+        </div>
+        <input type="hidden" value="@ViewBag.roletype" id="roletype" />
+        <div class="tableBox">
+            @*<table class="layui-table" id="calendar" lay-filter="myEvent"></table>*@
+            <table class="layui-table" style="text-align:center;" id="calendar">
+                <thead></thead>
+                <tbody></tbody>
+            </table>
+
+        </div>
+
+        <div class="add-event-wrap layui-hide" style="transform:translate(0px,-270px);">
+            <div class="add-event-content">
+                <a class="ae-close" href="javascript:"><i class="layui-icon">&#x1007;</i></a>
+                <div class="ae-header">
+                    <input class="event-input" type="text" placeholder="输入备注" />
+                    <div class="layui-form">
+
+                        <select name="type" class="contentType" style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
+                            <option value="0">正常</option>
+                            <option value="1">补课</option>
+                            <option value="2">放假</option>
+                            <option value="3">特殊</option>
+                        </select>
+
+                    </div>
+                </div>
+                <div class="ae-body">
+                    <div class="layui-inline layui-hide">
+                        <label class="layui-form-label">开始日期</label>
+                        <div class="layui-input-inline">
+                            <input type="text" class="layui-input" id="test1" placeholder="yyyy-MM-dd">
+                        </div>
+                    </div>
+                    <div class="layui-inline layui-hide">
+                        <label class="layui-form-label">结束日期</label>
+                        <div class="layui-input-inline">
+                            <input type="text" class="layui-input" id="test2" placeholder="yyyy-MM-dd">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="ae-footer">
+                    <button class="btn btn-important block save" type="button">保存</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+@Scripts.Render("~/Content/js/jquery.min.js", "~/Content/layui/layui.all.js", "~/Scripts/calendar/SchoolCalendar.js", "~/Scripts/html2canvas.min.js")
+
